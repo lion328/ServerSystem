@@ -1,0 +1,16 @@
+{
+    "name": "lion328/server-system",
+    "description": "A Minecraft web system for servers.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Waritnan Sookbuntherng",
+            "email": "lion328@hotmail.co.th"
+        },
+        {
+            "name": "Bank_Z"
+        }
+    ],
+    "require": {}
+}
