@@ -41,11 +41,11 @@ if(!isset($_POST['act']) || $_POST['act'] == '')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well" align="center">
-<b>ยินดีต้อนรับสู่ตัวช่วยการติดตั้งของ ServerSystem Version 0.7.2 pre</b>
+<b>ยินดีต้อนรับสู่ตัวช่วยการติดตั้งของ ServerSystem 0.8</b>
 <br>
 <br>
 กรณากดปุ่ม <input class="btn btn-success" type="button" value="Next"> ทางด้านล่าวขวา เพื่อไปยังขั้นตอนต่อไป
@@ -74,7 +74,7 @@ if($_POST['act'] == 'install1')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 1 : <b>ชื่อผู้ใช้และรหัสผ่านสำหรับ Admin</b>
@@ -113,7 +113,7 @@ if($_POST['act'] == 'install2')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 2 : <b>ฐานข้อมูลและรายละเอียดอื่นๆ</b>
@@ -167,7 +167,7 @@ if($_POST['act'] == 'install3')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 3 : <b>สรุป</b>
@@ -243,7 +243,7 @@ if($_POST['act'] == 'install4')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 4 : <b>สร้างไฟล์ config</b>
@@ -293,7 +293,7 @@ if($_POST['act'] == 'install5')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 5 : <b>สร้างฐานข้อมูล</b>
@@ -529,7 +529,7 @@ if($_POST['act'] == 'install6')
 <tr>
 <td>
 <br>
-<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> Ver 0.7.2 pre</h1>
+<div class="hero-unit"><h1><font color="#33ccff">ServerSystem</font> 0.8</h1>
 <div style="font-size: 1px;" align="right">by BanK_z & lion328</div></div>
 <br>
 <div class="well">ขั้นตอนที่ 6 : <b>สร้างตาราง</b>
