@@ -12,5 +12,7 @@
             "name": "Bank_Z"
         }
     ],
-    "require": {}
+    "require": {
+        "catfan/medoo": "^1.1"
+    }
 }
